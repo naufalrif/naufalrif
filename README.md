@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Naufal
-<img src="https://imgur.com/gallery/JkI4eH2/naufalrif/naufalrif/master/pLiMQUV.gif" width="30px">
+<img src="https://imgur.com/gallery/JkI4eH2" width="30px">
 - 👀 I’m interested in Mobile and Website Development
 - 🌱 I’m currently learning Android Development
 - 💞️ I’m looking to collaborate on android or website projects
