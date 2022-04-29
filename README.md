@@ -1,4 +1,5 @@
-##👋 Hi, I’m Naufal
+<h1 align="center">👋 Hi everyone, I’m Naufal!
+  
 
 ![ENku](https://user-images.githubusercontent.com/87630529/165984741-8a2488dd-94c5-468b-98a1-412c8d561449.gif)
 
