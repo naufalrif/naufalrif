@@ -1,16 +1,20 @@
 <div><h1 align="center">👋 Hi everyone, I’m Naufal! </h1></div>
 
-<div><img align="right" src="https://media.giphy.com/media/jsoMtBuP1Ahpu/giphy.gif"></div>
-
 <div>
+  <img align="right" src="https://media.giphy.com/media/jsoMtBuP1Ahpu/giphy.gif">
   <p style="text-align:center"> 👀 I’m interested in Mobile and Website Development </p>
   <p style="text-align:center"> 📈 I’m currently learning Android Development </p>
   <p style="text-align:center"> 🤝 I’m looking to collaborate on android or website projects </p>
   <p style="text-align:center"> 📫 You can reach me through my email at nhabibie25@gmail.com </p>
 </div>
-
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
 <div>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=madushadhanushka&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" />
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=naufalrif&theme=dark" width="48%" >
 </div>
 
 
