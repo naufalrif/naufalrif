@@ -1,6 +1,6 @@
 <h1 align="center">👋 Hi everyone, I’m Naufal! </h1>
 
-<img src="http://www.technoir.nl/post/37556943718/december2012-akira">
+<img src="https://media.giphy.com/media/jsoMtBuP1Ahpu/giphy.gif">
 
 <p style="text-align:center"> 👀 I’m interested in Mobile and Website Development </p>
 🌱 I’m currently learning Android Development
