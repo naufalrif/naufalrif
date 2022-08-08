@@ -1,8 +1,7 @@
 <h1 align="center">👋 Hi everyone, I’m Naufal! </h1>
 
-<img src="https://giphy.com/embed/jsoMtBuP1Ahpu">
+<div style="width:100%;height:0;padding-bottom:53%;position:relative;"><iframe src="https://giphy.com/embed/jsoMtBuP1Ahpu" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/technoir-movie-akira-jsoMtBuP1Ahpu">via GIPHY</a></p>
 
-<p><a href="https://giphy.com/gifs/technoir-movie-akira-jsoMtBuP1Ahpu">via GIPHY</a></p>
 
 <p style="text-align:center"> 👀 I’m interested in Mobile and Website Development </p>
 🌱 I’m currently learning Android Development
