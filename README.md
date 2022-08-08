@@ -9,6 +9,10 @@
   <p style="text-align:center"> 📫 You can reach me through my email at nhabibie25@gmail.com </p>
 </div>
 
+<div>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=madushadhanushka&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" />
+</div>
+
 
 
 <!---
