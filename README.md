@@ -1,9 +1,8 @@
 <h1 align="center">👋 Hi everyone, I’m Naufal! </h1>
-  
 
-![ENku](https://user-images.githubusercontent.com/87630529/165984741-8a2488dd-94c5-468b-98a1-412c8d561449.gif)
+<iframe src="https://giphy.com/embed/jsoMtBuP1Ahpu" width="480" height="254" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/technoir-movie-akira-jsoMtBuP1Ahpu">via GIPHY</a></p>
 
-👀 I’m interested in Mobile and Website Development
+<p style="text-align:center"> 👀 I’m interested in Mobile and Website Development </p>
 🌱 I’m currently learning Android Development
 💞️ I’m looking to collaborate on android or website projects
 📫 You can reach me through my email at nhabibie25@gmail.com
