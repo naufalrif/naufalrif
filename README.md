@@ -1,6 +1,6 @@
 <h1 align="center">👋 Hi everyone, I’m Naufal! </h1>
 
-<img src="https://giphy.com/embed/jsoMtBuP1Ahpu" width="480" height="254" frameBorder="0" class="giphy-embed" allowFullScreen>
+<img src="https://giphy.com/embed/jsoMtBuP1Ahpu">
 
 <p><a href="https://giphy.com/gifs/technoir-movie-akira-jsoMtBuP1Ahpu">via GIPHY</a></p>
 
