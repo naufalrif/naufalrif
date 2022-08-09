@@ -14,7 +14,7 @@
 <br>
 <br>
 <div>
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=naufalrif&theme=dark" width="48%" >
+<img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=naufalrif&theme=dark" width="48%" >
 </div>
 
 
